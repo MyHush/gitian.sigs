@@ -2,7 +2,7 @@
 - out_manifest: ''
 - in_manifest: |-
     270a51197924c7a0396c11824fc01f7048b77302ae07d13e878da7c853bb33e0  hush-1.0.12-desc.yml
-    git:8a522771e9e2c7d444b0a4e2efd9cdde3204b78e hush
+    git:6144c1a0d7276f07239b57cc27b3d89a0a692268 hush
 - base_manifests: !omap
   - jessie-amd64: |
       7ea1b015f34a392f63a324a8fd704293f98621c9cd935299304fb944c001df3a  acl_2.2.52-2_amd64.deb
