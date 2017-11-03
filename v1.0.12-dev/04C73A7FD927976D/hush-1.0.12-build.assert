@@ -1,8 +1,11 @@
 --- !omap
-- out_manifest: ''
+- out_manifest: |
+    5ad058059f14549aca764b9000f5cd6eba53ed98ab3eeb136c87ddbac7606a81  hush-1.0.12-linux64-debug.tar.gz
+    b1e4af6d9af4119884214f99cf622d2da802c2ff368c75074282236e34c4d1b2  hush-1.0.12-linux64.tar.gz
+    e5645066615fd9532797870555638cdddd49dc8fe47bc9b716d7ff66c32d3090  src/hush-1.0.12.tar.gz
 - in_manifest: |-
     270a51197924c7a0396c11824fc01f7048b77302ae07d13e878da7c853bb33e0  hush-1.0.12-desc.yml
-    git:899aabffd8b2f76f5c8f6fb34509defd07adafd2 hush
+    git:28fb18f87517732ecee5c2ea71e0b41668438c0e hush
 - base_manifests: !omap
   - jessie-amd64: |
       7ea1b015f34a392f63a324a8fd704293f98621c9cd935299304fb944c001df3a  acl_2.2.52-2_amd64.deb
